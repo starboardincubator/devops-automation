@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Amanda Orendorff"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile-photo.png"
   bio    : "I love to learn and teach. Lately I'm into DevOps and Automation."
   links:
     - label: "Website"
