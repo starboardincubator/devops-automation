@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: DevOps Automation
+subtitle: Terraform, Kubernetes and other infrastructure related thoughts
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   DevOps Automation blog focused on infrastructure as code, terraform and kubernetes.
@@ -94,6 +95,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
+      show_date: true
       comments: true
       share: true
       related: true
