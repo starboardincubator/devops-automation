@@ -17,8 +17,8 @@ title: DevOps Automation
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   DevOps Automation blog focused on infrastructure as code, terraform and kubernetes.
-twitter_username: username
-github_username: username
+twitter_username: @amandaorendoff
+github_username: instructivly
 minimal_mistakes_skin: dark
 search: true
 
@@ -65,10 +65,10 @@ author:
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/amandaorendoff"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/instructivly"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
@@ -77,10 +77,10 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/amandaorendoff"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/instructivly"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
